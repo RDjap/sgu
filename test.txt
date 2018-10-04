@@ -1,3 +1,7 @@
 testing sgu-
 
+<<<<<<< HEAD
 in master
+=======
+inside sgu branch
+>>>>>>> SGU
